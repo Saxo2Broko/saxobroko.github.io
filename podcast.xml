@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+	<title>Clickbait</title>
+  <itunes:explicit>yes</itunes:explicit>
+	<itunes:author>Saxo_Broko</itunes:author>
+	<link>https://saxobroko.ga</link>
+	<itunes:subtitle>With Saxo_Broko, JarrodWilsonD and more guests</itunes:subtitle>
+	<itunes:summary>Saxo talks about life and ideas for videos as well as things to do when you're bored.</itunes:summary>
+	<language>en-us</language>
+	<copyright>Saxo_Broko, 2017</copyright>
+	<itunes:owner>
+	    <itunes:name>Saxo_Broko</itunes:name>
+	    <itunes:email>saxonbrooker@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://saxobroko.ga/images/head1700.png" />
+	<itunes:category text="Comedy">
+	    <itunes:category text=""/>
+	</itunes:category>
+	<item>
+	    <title>What Am I Doing?</title>
+	    <itunes:author>Saxo_Broko</itunes:author>
+	    <itunes:subtitle></itunes:subtitle>
+	    <itunes:summary>This is episode 1 of Clickbait. YAY</itunes:summary>
+	    <enclosure url=" https://saxobroko.ga/podcasts/episode1.m4a" length="9,600,000" type="audio/x-m4a" />
+	    <pubDate>Tue, 04 Jul 2017 18:27:14 AEDT</pubDate>
+	    <itunes:category text="Comedy">
+		    <itunes:category text=""/>
+	    </itunes:category>
+	    <itunes:duration>00:05:16</itunes:duration>
+	    <itunes:keywords>Saxo_Broko</itunes:keywords>
+	</item>
+	<item>
+	    <title>Our First Time!</title>
+	    <itunes:author>Saxo_Broko</itunes:author>
+	    <itunes:subtitle></itunes:subtitle>
+	    <itunes:summary>This is episode 2 of Clickbait. YAY BE HAPPY!!!</itunes:summary>
+	    <enclosure url=" https://saxobroko.ga/podcasts/episode2.m4a" length="43,474,944" type="audio/x-m4a" />
+	    <pubDate>Tue, 14 Jul 2017 20:37:54 AEDT</pubDate>
+	    <itunes:category text="Comedy">
+		    <itunes:category text=""/>
+	    </itunes:category>
+	    <itunes:duration>00:23:04</itunes:duration>
+	    <itunes:keywords>Saxo_Broko</itunes:keywords>
+	</item>
+	<item>
+	    <title>AT SCHOOL!</title>
+	    <itunes:author>Saxo_Broko</itunes:author>
+	    <itunes:subtitle>With JarrodWilsonD and Raven</itunes:subtitle>
+	    <itunes:summary>This is episode 3 of Clickbait. Subscribe To PewDiePie!!</itunes:summary>
+	    <enclosure url=" https://saxobroko.ga/podcasts/episode3.m4a" length="20,404,952" type="audio/x-m4a" />
+	    <pubDate>Tue, 04 Aug 2017 11:59:45 AEDT</pubDate>
+	    <itunes:category text="Comedy">
+		    <itunes:category text=""/>
+	    </itunes:category>
+	    <itunes:duration>00:13:57</itunes:duration>
+	    <itunes:keywords>Saxo_Broko</itunes:keywords>
+	</item>
+</channel>
+</rss>

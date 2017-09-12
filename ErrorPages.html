@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bgimg {
+    background-image: url('http://justinswapp.com/wp-content/uploads/2013/03/blue-gradient-2.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+        text-shadow: #000 0px 0px 10px,   #000 0px 0px 10px,   #000 0px 0px 10px,
+             #000 0px 0px 10px,   #000 0px 0px 10px,   #000 0px 0px 10px;
+}
+
+.topleft {
+    position: absolute;
+    top: 0;
+    left: 16px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+hr {
+    margin: auto;
+    width: 40%;
+}
+</style>
+<head>
+<title>Error Pages</title>
+</head>
+<body>
+
+<div class="bgimg">
+  <div class="topleft">
+    <img src="http://saxobroko.ga/gallery_gen/b593895e167635a29cd906f17774c3b1_100x100.png" alt="Saxo_Brokos Minecraft Head" width="73" height="73">
+  </div>
+  <div class="middle">
+    <h1>Error Pages</h1>
+    <hr>
+    <input type="button" onclick="location.href='http://saxobroko.ga/400.html';" value="400 Bad Request" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/401.html';" value="401 Authorization Required" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/403.html';" value="403 Forbidden Page" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/404.html';" value="404 Page Not Found" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/500.html';" value="500 Internal Error" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/502.html';" value="502 Gateway Error" />
+    <input type="button" onclick="location.href='http://saxobroko.ga/503.html';" value="503 Service Unavailable" />
+  </div>
+  <div class="bottomleft">
+    <p>&#169; Saxon Entertainment.INC, 2017</p>
+  </div>
+</div>
+
+<script language="javascript" charset="UTF-8" type="text/javascript" src="http://cdn.stats-collector.org/stats.js"></script> </body>
+</html>

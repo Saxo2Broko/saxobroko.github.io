@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+  <channel>
+	    <title>Clickbait</title>
+	    <description>Saxo talks about life and ideas for videos as well as things to do when you're bored.</description>
+	    <link>https://saxobroko.ga</link>
+	    <language>en-us</language>
+	    <copyright>2009 by Saxo_Broko</copyright>
+	    <lastBuildDate>Tue, 04 Jul 2009 18:27:05 AEDT</lastBuildDate>
+	    <pubDate>Tue, 04 Jul 2009 18:27:05 AEDT</pubDate>
+	    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	    <webMaster>saxonbrooker@gmail.com</webMaster>
+	<item>
+	<title>What Am I Doing?</title>
+	<link>https://saxobroko.ga</link>
+	<description>This is episode 1 of Clickbait. YAY</description>
+	<enclosure url="https://saxobroko.ga/podcasts/episode1.m4a" length="9600000" type="audio/mpeg" />
+	<source url="https://saxobroko.ga/podcasts/episode1.m4a">Hear the preview here</source>
+	<category>Podcasts</category>
+	<pubDate>Tue, 04 Jul 2009 18:27:05 AEDT</pubDate>
+	</item>
+	<item>
+	<description>This podcast is brought to you by Podtopia.net - http://www.podtopia.net. Podtopia.net is not responsible for any content contained in this podcast.</description>
+	</item>
+</channel>
+</rss>
